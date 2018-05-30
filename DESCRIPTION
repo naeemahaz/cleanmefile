@@ -1,0 +1,32 @@
+Package: cleanme
+Type: Package
+Title: cleanme
+Version: 0.1.0
+Author: Naeemah Aliya Small <naeemahaz@gmail.com>
+Maintainer: Naeemah Aliya Small <naeemahaz@gmail.com>
+Description: Save Original File, Cleans file, Saves Clean File, Explore Dataset
+Depends:
+      R (>= 1.0.1)
+License: subzeroheart 11111111
+Encoding: UTF-8
+LazyData: true
+Imports:
+      ggplot2 (>= 1.0.1),
+      coda (>= 0.19-1),
+      data.table (>= 1.0.1),
+      DBI (>= 1.0.0),
+      decision (>= 0.1.0),
+      Formula (>= 1.0.1),
+      gplots (>= 1.0.1),
+      highr (>= 0.6),
+      Hmisc (>= 1.0.1),
+      matrixStats (>= 0.53.1),
+      mclust (>= 1.0.1),
+      ModelMetrics (>= 1.0.1),
+      modeltools (>= 0.2-21),
+      plotrix (>= 1.0.1),
+      plotROC (>= 1.0.1),
+      plyr (>= 1.0.1),
+      csv (>= 0.5.2),
+      rpart.plot (>= 1.0.1)
+RoxygenNote: 6.0.1
